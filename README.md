@@ -14,5 +14,8 @@
 <a>Abaixo os print de como fica em uma tela de computador e uma tela de celular.<a>
 
 <img src="https://github.com/FelipeAraujo2001/Easy-Shopping/blob/main/PC%20Projeto%20Mobile.png?raw=true">
+<br>
+<br>
+<br>
 <img src="https://github.com/FelipeAraujo2001/Easy-Shopping/blob/main/print%20projeto%20Mobile%20Cel.png?raw=true">
 
